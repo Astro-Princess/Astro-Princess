@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python with you.
-- 📫 Reach me on Discord at Astro-Princess#3133!
+- 📫 Reach me on Discord at Astro-Princess#6739!
 
 
 
