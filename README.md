@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Astro-Princess
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python with you.
+- 👀 I’m interested in Python, Pygame, C#, HTML & CSS
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on Pygame with you.
 - 📫 Reach me on Discord at Astro-Princess#6739!
 
 
